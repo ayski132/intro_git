@@ -4,3 +4,4 @@ GITの練習をしていきます。
 ・git edit
 ・git rm
 ・git status
+・git diff
